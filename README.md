@@ -1,2 +1,3 @@
 # GIT-Repo1
-This is my repositoried
+This is my repository. 
+Author - SK
